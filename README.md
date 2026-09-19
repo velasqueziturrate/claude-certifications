@@ -9,4 +9,3 @@ Knowledge base for Claude certifications.
 - Flashcards
 - Exam preparation
 - Practical exercises
-`
