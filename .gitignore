@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Cursor / VS Code settings
+.vscode/
+
+# JetBrains
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
