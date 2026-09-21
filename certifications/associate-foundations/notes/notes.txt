@@ -1,0 +1,11 @@
+echo "=== Git Identity ==="
+git config --get user.name
+git config --get user.email
+
+echo ""
+echo "=== Remote ==="
+git remote -v
+
+echo ""
+echo "=== GitHub Auth ==="
+gh auth status
