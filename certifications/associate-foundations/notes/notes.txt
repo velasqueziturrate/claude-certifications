@@ -9,3 +9,7 @@ git remote -v
 echo ""
 echo "=== GitHub Auth ==="
 gh auth status
+
+echo "=== Change GitHub default account ==="
+git config --local credential.helper ""
+git config credential.helper ""
