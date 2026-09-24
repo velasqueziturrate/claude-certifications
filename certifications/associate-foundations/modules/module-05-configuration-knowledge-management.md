@@ -540,6 +540,85 @@ No necesariamente el prompt.
 - Separar clientes en Projects distintos.
 - Utilizar instrucciones precisas.
 
+## Key Takeaways
+
+### 1. Configuration Is Leverage
+
+La configuración multiplica el valor de Claude.
+
+Configurar correctamente una vez permite beneficiarse en todas las conversaciones posteriores.
+
+#### Key Takeaway
+
+Existe una diferencia entre:
+
+- Usar Claude.
+- Operar Claude mediante una configuración mantenible.
+
+---
+
+### 2. Match Each Need To The Right Mechanism
+
+Cada necesidad tiene un mecanismo adecuado.
+
+| Need | Mechanism |
+|--------|--------|
+| Behaviour | Instructions |
+| Facts | Knowledge Base |
+| Procedures | Skills |
+| Continuity | Memory |
+
+#### Exam Note
+
+Uno de los conceptos más importantes del módulo.
+
+---
+
+### 3. Know Each Connector's Boundary
+
+Los conectores amplían el acceso a información.
+
+Pero cada conector tiene límites específicos.
+
+#### Key Takeaway
+
+Comprender qué puede y no puede hacer cada conector evita errores de diseño y diagnósticos incorrectos.
+
+---
+
+### 4. Write Instructions Precisely
+
+Las instrucciones permanentes deben ser:
+
+- Claras.
+- Específicas.
+- Comprobables.
+
+Las instrucciones vagas producen resultados inconsistentes.
+
+#### Key Takeaway
+
+Las instrucciones permanentes mal definidas fallan silenciosamente.
+
+---
+
+### 5. Maintain Or Watch Quality Decay
+
+La configuración requiere mantenimiento.
+
+Deben revisarse periódicamente:
+
+- Instructions.
+- Knowledge Base.
+- Skills.
+- Memory.
+
+#### Key Takeaway
+
+La calidad no se degrada de golpe.
+
+Se degrada gradualmente cuando la configuración queda obsoleta.
+
 ---
 
 ## Exam Hot Topics
