@@ -1,22 +1,73 @@
-Module 1
+====================================================
+CLAUDE ASSOCIATE FOUNDATIONS - FINAL CHEATSHEET
+====================================================
+
+AI FLUENCY FRAMEWORK
+
+Description
+→ Tell Claude clearly what you want
+
+Discernment
+→ Evaluate outputs critically
+
+Diligence
+→ Verify, review, govern
+
+Delegation
+→ Decide what AI vs Human should do
+
+====================================================
+MODULE 1 - PRODUCT & MODEL SELECTION
+====================================================
+
 Models
-Opus = reasoning
-Sonnet = balanced
-Haiku = speed
+
+Opus
+→ Deep reasoning
+→ Complex analysis
+
+Sonnet
+→ Balanced
+→ General purpose
+
+Haiku
+→ Fastest
+→ Lightweight tasks
 
 Features
+
 Chat
 Projects
 Artifacts
 Research
 Code Execution
 
-Golden Rules
-Confidence ≠ Accuracy
-Responses vary
-Context matters
+Core Concepts
 
-Module 2
+Confidence ≠ Accuracy
+
+Responses Vary
+
+Training Boundary
+
+Context Window
+
+Context Matters
+
+Conversation Controls
+
+Restart
+Summarize
+Persist
+
+Golden Rule
+
+Choose the right tool before prompting.
+
+====================================================
+MODULE 2 - PROMPTING
+====================================================
+
 Prompt Stack
 
 1. Role
@@ -25,109 +76,251 @@ Prompt Stack
 4. Constraints
 5. Output Format
 
-Common Failure
-Generic Output → Missing Context
+Most Common Failure
 
-Analysis → More Constraints
-Brainstorming → More Freedom
+Generic Output
+→ Missing Context
+
+Prompt Diagnostics
+
+Wrong Action
+→ Task
+
+Wrong Tone
+→ Constraints
+
+Wrong Structure
+→ Output Format
+
+Task Types
+
+Analysis
+→ More Constraints
+
+Brainstorming
+→ More Freedom
 
 Complex Work
+
 Task Decomposition
 
 Calculations
-→ Code Execution
 
-Module 3
+Code Execution
+
+Golden Rule
+
+Structure beats cleverness.
+
+====================================================
+MODULE 3 - OUTPUT EVALUATION
+====================================================
+
 Evaluate Against
 
 1. Requirements
 2. Source Material
 3. Professional Standards
 
-Accuracy ≠ Completeness
+Accuracy
+≠
+Completeness
 
 Hallucination Controls
 
-- Allow uncertainty
-- Restrict sources
-- Require citations
+Allow Uncertainty
+
+Restrict Sources
+
+Require Citations
+
+Quote First Then Analyze
+
+Best Of N
 
 Risk Thresholds
 
-- Stakes
-- Reversibility
-- Audience
-- Regulation
+Stakes
 
-Module 4
-Delegation
+Reversibility
+
+Audience
+
+Regulation
+
+Human Review Required
+
+Client Deliverables
+
+Financial Outputs
+
+Legal Outputs
+
+Regulated Content
+
+Golden Rule
+
+Plausible ≠ Verified
+
+====================================================
+MODULE 4 - WORKFLOW INTEGRATION
+====================================================
+
+Delegation Categories
 
 AI Appropriate
+
 Human Retained
+
 Collaborative
 
 Three Criteria
 
-- Reversibility
-- Stakes
-- Accountability
+Reversibility
+
+Stakes
+
+Accountability
+
+Requirements
+
+Extract
+
+Structure
+
+Pressure Test
 
 Planning
 
-Synthesis → Claude
-Calculations → Code Execution
-Decisions → Human
+Synthesis
+→ Claude
 
-Module 5
-Configuration
+Calculations
+→ Code Execution
 
-Behavior → Instructions
-Facts → Knowledge
-Procedures → Skills
-Continuity → Memory
+Decisions
+→ Human
 
-Review Monthly
+Workflow Risks
 
-Watch For
+Over Delegation
 
-- Stale Instructions
-- Old Knowledge
-- Outdated Skills
-- Bad Memory
+Halo Delegation
 
-Module 6
-Governance
+Missing Human Review
+
+Golden Rule
+
+Delegate deliberately.
+
+====================================================
+MODULE 5 - CONFIGURATION
+====================================================
+
+Behavior
+→ Instructions
+
+Facts
+→ Knowledge
+
+Procedures
+→ Skills
+
+Continuity
+→ Memory
+
+Configuration Drift
+
+Old Instructions
+
+Old Knowledge
+
+Old Skills
+
+Bad Memory
+
+Review Active Projects
+
+Monthly
+
+Golden Rule
+
+Put everything in the correct slot.
+
+====================================================
+MODULE 6 - GOVERNANCE
+====================================================
 
 Use Case Screening
 
-- Reversibility
-- Consequence
-- Human Element
-- Accountability
+Reversibility
+
+Consequence
+
+Human Element
+
+Accountability
+
+Load Bearing Criterion
+
+The factor that determines the classification.
 
 Classification
 
 Fully Appropriate
-Appropriate + Review
+
+Appropriate + Human Review
+
 Inappropriate
+
+Human Review Gate
+
+Who
+
+What
+
+When
 
 Skill Trust
 
-- Source
-- Reach
-- Appropriateness
+Source
 
-Data
+Reach
+
+Appropriateness
+
+Least Privilege
+
+Minimum access required.
+
+Data Classification
 
 Green
+
 Yellow
+
 Red
 
-Module 7
-Troubleshooting
+Ethics
+
+Bias
+
+Fairness
+
+Disclosure
+
+Golden Rule
+
+Classify first, upload second.
+
+====================================================
+MODULE 7 - TROUBLESHOOTING
+====================================================
+
+Failure Patterns
 
 First Response Wrong
-→ Under-Specification
+→ Under Specification
 
 Degrades Over Time
 → Context Overload
@@ -141,7 +334,118 @@ Used To Work
 Diagnostic Sequence
 
 Prompt
+
+Context
+
+Feature
+
+Configuration
+
+Task Fit
+
+Expectation Mismatch
+
+Task must be reshaped.
+
+Promotion
+
+Rule
+→ Instructions
+
+Reference
+→ Knowledge
+
+Procedure
+→ Skills
+
+Optimization Signals
+
+Repetition
+
+Correction
+
+Variance
+
+Golden Rule
+
+Diagnose before changing things.
+
+====================================================
+MODULE 8 - COURSE SUMMARY
+====================================================
+
+Associate Journey
+
+Select
+
+Prompt
+
+Evaluate
+
+Integrate
+
+Configure
+
+Govern
+
+Optimize
+
+Escalation
+
+Developer
+→ APIs, SDKs, Agents
+
+Architect
+→ Enterprise Design, Governance
+
+Exam Strategy
+
+Study frameworks.
+
+Not definitions.
+
+====================================================
+MOST TESTABLE CONCEPTS
+====================================================
+
+Role
+Context
+Task
+Constraints
+Output Format
+
+Accuracy vs Completeness
+
+Allow Uncertainty
+
+Restrict Sources
+
+Require Citations
+
+AI Appropriate
+Human Retained
+Collaborative
+
+Instructions
+Knowledge
+Skills
+Memory
+
+Fully Appropriate
+Appropriate + Review
+Inappropriate
+
+Green
+Yellow
+Red
+
+Prompt
 Context
 Feature
 Configuration
 Task Fit
+
+Description
+Discernment
+Diligence
+Delegation
